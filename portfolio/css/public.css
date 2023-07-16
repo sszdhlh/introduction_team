@@ -1,0 +1,85 @@
+
+.cb{
+	clear: both;
+}
+
+
+.clrli{
+	list-style-type: none;
+}
+
+
+
+.clra,.clra:hover{
+	text-decoration: none;
+	color: #000;
+}
+.clra,.clra:focus{
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+.fl{
+	float: left;
+}
+
+
+
+
+.fr{
+	float: right;
+}
+
+
+.dis_block{
+	display: block;
+}
+
+
+
+.inline_li{
+	display: inline;
+}
+
+
+
+.middle{
+	text_align: center;
+}
+
+.text13{
+	font-size: 13px;
+}
+
+.text14{
+	font-size: 14px;
+}
+
+.text15{
+	font-size: 15px;
+}
+
+.text16{
+	font-size: 16px;
+}
+
+.text17{
+	font-size: 17px;
+}
+
+.text18{
+	font-size: 18px;
+}
+
+.icon {
+	width: 1em; height: 1em;
+	vertical-align: -0.15em;
+	fill: currentColor;
+	overflow: hidden;
+}
+
+.cur{
+	cursor: pointer;
+}
